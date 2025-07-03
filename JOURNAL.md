@@ -52,4 +52,5 @@ This is the new lay out! Long but not as chunky.
 
 ![image](https://github.com/user-attachments/assets/556eff32-f5c9-4ca2-9537-d39a9d5338f8)
 
+![image](https://github.com/user-attachments/assets/62457d67-3630-4695-91b0-2862f8307830)
 
