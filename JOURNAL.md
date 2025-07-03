@@ -38,6 +38,9 @@ I started on the huge battlebot! Here is also the electronic lay out. I made the
 ![image](https://github.com/user-attachments/assets/a9cf9818-a732-464f-9f7c-ecb3911c3860)
 
 After sometime building I realized I made it too big so I am going to redesign it now.
+This is the new lay out! Long but not as chunky. 
+
+![image](https://github.com/user-attachments/assets/29a34fbe-db5c-46c2-8945-30b0f5530578)
 
 
 
