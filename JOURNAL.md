@@ -56,3 +56,10 @@ This is the new lay out! Long but not as chunky.
 
 Here is the final version! I still need to do weight calcs but I think its looking good. I think it looks a little goofy in my oponion but I think it looks better when I get it built. 
 
+![image](https://github.com/user-attachments/assets/11e56c2a-8e54-43fb-8495-8494f2e5f72d)
+
+![image](https://github.com/user-attachments/assets/dbd1e8a3-830c-4c07-9ac1-8f49323abb82)
+
+![image](https://github.com/user-attachments/assets/defc6f90-19d9-4243-88c2-cb75ceeab8de)
+
+![image](https://github.com/user-attachments/assets/7ee304cf-51d2-48ca-87f0-1278366a344c)
