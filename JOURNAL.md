@@ -71,5 +71,8 @@ Here is the final version! I still need to do weight calcs but I think its looki
 ![image](https://github.com/user-attachments/assets/53ecf63f-9848-46e4-8f45-955a35755e81)
 
 
+I had talk to Dylan about this bot and we agreed that this bot gets to be 200g because it unique robot. It can be lighter and probably make 150g but the problem is I would need to get CF for the lid and for the wheels and it would not make it on time Therefore all the other bots unless unique as this one has to be int he 150g weight limit. I believe this is fair because I do not know how good this would work. 
+
+
 
 
