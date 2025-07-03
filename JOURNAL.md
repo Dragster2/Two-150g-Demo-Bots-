@@ -83,4 +83,8 @@ I had talk to Dylan about this bot and we agreed that this bot gets to be 200g b
 
 ![image](https://github.com/user-attachments/assets/81ea68ce-695d-437c-a10c-cf927250756b)
 
+![image](https://github.com/user-attachments/assets/26c9dca0-14ec-4b41-b10b-c90aa0476709)
 
+![image](https://github.com/user-attachments/assets/6985acae-30fd-438a-b758-951aa127f1db)
+I updated the armor to be more bulky might be a little hard to tell.
+![image](https://github.com/user-attachments/assets/a92bf341-08a6-446c-b198-9cd155c82a7e)
