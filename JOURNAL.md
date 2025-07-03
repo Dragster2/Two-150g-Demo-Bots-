@@ -77,7 +77,10 @@ I had talk to Dylan about this bot and we agreed that this bot gets to be 200g b
 
 # July 3, 2025 :Day 1, the start of the drum bot!
 
+![image](https://github.com/user-attachments/assets/ae919811-f6c0-4aee-98be-b59f77d357aa)
 
+![image](https://github.com/user-attachments/assets/e353c1e0-3efe-422c-9614-f0b6866163d0)
 
+![image](https://github.com/user-attachments/assets/81ea68ce-695d-437c-a10c-cf927250756b)
 
 
