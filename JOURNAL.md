@@ -14,3 +14,10 @@ The plan is too make one vertical weapon robot and one that is a giant vertical 
 ![image](https://github.com/user-attachments/assets/6945f394-fc96-49d3-a8f4-7a044664114f)
 
 ![image](https://github.com/user-attachments/assets/8a5ab1c0-5649-4e6e-b648-627f424e665d)
+
+These are the batteries I am planning on using!
+
+![image](https://github.com/user-attachments/assets/12f260e6-349c-4435-b7b6-836fd9a40ece)
+
+For the other elecronics, Both Bots are running 2 20s from Tunabot. Two maleki nanos from Turnabot. The weapon motor is going to be the rs2205. The are a little big but are good cheap and reliable motors in my oponion. For the esc for the weapon, am planning on a 30 or 35 amp esc. 
+
