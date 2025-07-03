@@ -21,3 +21,11 @@ These are the batteries I am planning on using!
 
 For the other elecronics, Both Bots are running 2 20s from Tunabot. Two maleki nanos from Turnabot. The weapon motor is going to be the rs2205. The are a little big but are good cheap and reliable motors in my oponion. For the esc for the weapon, am planning on a 30 or 35 amp esc. 
 
+![image](https://github.com/user-attachments/assets/1c917aae-2117-49b6-9208-66026d9d69fb)
+
+![image](https://github.com/user-attachments/assets/86ce87c8-3e2c-4b40-bd4c-ef57990cfc0d)
+
+![image](https://github.com/user-attachments/assets/c5ae10c7-111c-44c1-be4a-859a3f9a0a9e)
+
+
+
