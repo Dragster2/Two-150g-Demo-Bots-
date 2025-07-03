@@ -68,7 +68,8 @@ Here is the final version! I still need to do weight calcs but I think its looki
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/53ecf63f-9848-46e4-8f45-955a35755e81)
+
 
 
 
