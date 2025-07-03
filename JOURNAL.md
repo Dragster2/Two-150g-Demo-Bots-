@@ -27,11 +27,14 @@ For the other elecronics, Both Bots are running 2 20s from Tunabot. Two maleki n
 
 ![image](https://github.com/user-attachments/assets/c5ae10c7-111c-44c1-be4a-859a3f9a0a9e)
 
-I started on the huge battlebot! Here is also the electronic lay out. 
+I started on the huge battlebot! Here is also the electronic lay out. I made the wheels too. Might change them later on thought.
 
 ![image](https://github.com/user-attachments/assets/6592cac2-bbac-4c97-8fc4-3b36b9719a04)
 
 ![image](https://github.com/user-attachments/assets/3a1d43c4-cac3-44b8-a2a8-6cd2c24948b0)
+
+![image](https://github.com/user-attachments/assets/198efbd1-ad6f-4b88-9aa6-7b1f596b33c6)
+
 
 
 
