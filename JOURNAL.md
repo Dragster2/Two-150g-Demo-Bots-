@@ -7,7 +7,7 @@ created_at: "2025-07-02"
 
 # Total Time Spent 14 hours
 
-# June 24, 2025 :Day 1, the start of two designs
+# July 2, 2025 :Day 1, the start of two designs
 
 The plan is too make one vertical weapon robot and one that is a giant vertical spinner. The plan for the vertical weapon one is to make a drum. I am going to do a similar design of this combat robot minotaur! For the giant vertical spinner is too make a 200g Huge. This is honestly a bad idea but why not! The weapons are going to be made out of tpu 95a and the rest of the bot can be anything else. For both of my bots, there main body (That is white in te photos are made out of a different stiffer version of tpu 95a. The armor (that is the black part is going to be normal tpu 95a. 
 
@@ -15,7 +15,7 @@ The plan is too make one vertical weapon robot and one that is a giant vertical 
 
 ![image](https://github.com/user-attachments/assets/8a5ab1c0-5649-4e6e-b648-627f424e665d)
 
-These are the batteries I am planning on using! They are small but powerfull batteries that should last more than enought time thatit needs. 
+These are the batteries I am planning on using! They are small but powerfull batteries that should last more than enought time that it needs. 
 
 ![image](https://github.com/user-attachments/assets/12f260e6-349c-4435-b7b6-836fd9a40ece)
 
@@ -80,7 +80,7 @@ I had talk to Dylan about this bot and we agreed that this bot gets to be 200g b
 
 **Total Time Spent: 6hr**
 
-# July 3, 2025 :Day 1, the start of the drum bot!
+# July 3, 2025 :Day 2, the start of the drum bot!
 
 Today I started on the other robot that is the drum bot. Same electronics as the other bot. This bot is a fun design that hits hard, drives good, and is reliably. I started with the uprights. The red motor is big so I had to get creative with it. 
 
