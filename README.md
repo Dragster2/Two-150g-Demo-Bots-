@@ -22,4 +22,50 @@ The reason I want to make these is first, to make more little robots like these 
 
 ![image](https://github.com/user-attachments/assets/a15e45fe-831b-4b3b-a7c1-0c8d98f7a8cd)
 
-[_MConverter.eu__Weight Calcs 150g Huge - Sheet1 (1).md](https://github.com/user-attachments/files/21071258/_MConverter.eu__Weight.Calcs.150g.Huge.-.Sheet1.1.md)
+| Item Name         | Quanitity | Weight | Subweight | Cost          | Total Weight |
+|-------------------|-----------|--------|-----------|---------------|--------------|
+| Chassis           | 1         | 38.78  | 38.78     | 3d printed    | 193.63       |
+|                   |           |        |           |               |              |
+| Weapon 100% Solid | 1         | 11.28  | 11.28     | 3d printed    |              |
+|                   |           |        | 0         |               |              |
+| top               | 1         | 13.24  | 13.24     | 3d printed    |              |
+| Back supports     | 2         | 3.94   | 7.86      | 3d printed    |              |
+|                   |           |        |           |               |              |
+|                   |           |        |           |               |              |
+| Weapon Motor      | 1         | 26     | 26        | Already Owned |              |
+| battery           | 1         | 21.5   | 21.5      | $21.88       |              |
+| maleki            | 1         | 5      | 5         | $28.00       |              |
+| n20s              | 2         | 8.13   | 16.26     | Already Owned |              |
+| wheels            | 2         | 18.28  | 36.56     | 3d printed    |              |
+|                   |           |        |           |               |              |
+|                   |           |        |           |               |              |
+| switch            | 1         | 2.15   | 2.15      | Already Owned |              |
+| speed controller  | 1         | 5      | 5         | $18.99       |              |
+| wires and screws  | 1         | 10     | 10        | Already Owned |              |
+| Filment           | 1         | 0      | 0         | $30.99       |              |
+| TOTAL             |           | 193.63 |           |\$99.86       |              |
+
+
+| Item Name                            | Quanitity | Weight | Subweight | Cost          | Total Weight |
+|--------------------------------------|-----------|--------|-----------|---------------|--------------|
+| Chassis                              | 1         | 40.13  | 40.13     | 3d printed    | 198.14       |
+|                                      |           |        |           |               |              |
+| Weapon 100% Solid                    | 1         | 26.96  | 26.96     | 3d printed    |              |
+|                                      |           |        | 0         |               |              |
+| top                                  | 1         | 7.32   | 7.32      | 3d printed    |              |
+| Armor 2                              | 2         | 10.91  | 21.82     | 3d printed    |              |
+|                                      |           |        |           |               |              |
+|                                      |           |        |           |               |              |
+| Weapon Motor                         | 1         | 26     | 26        | Already Owned |              |
+| battery                              | 1         | 21.5   | 21.5      | On other BOM  |              |
+| maleki                               | 1         | 5      | 5         | $28.00       |              |
+| n20s                                 | 2         | 8.13   | 16.26     | Already Owned |              |
+| wheels                               | 2         | 8      | 16        | Already Owned |              |
+|                                      |           |        |           |               |              |
+|                                      |           |        |           |               |              |
+| switch                               | 1         | 2.15   | 2.15      | Already Owned |              |
+| speed controller                     | 1         | 5      | 5         | On other BOM  |              |
+| wires and screws                     | 1         | 10     | 10        | Already Owned |              |
+| TOTAL                                |           | 198.14 |           | \$28.00       |              |
+| Final TOTAL (Combine) (Tax also too) |           |        |           | \$137.59      |              |
+
