@@ -1,7 +1,7 @@
 ---
 title: "Two 150g Demo Bots!"
 author: "Luke"
-description: ""
+description: "These are two demo bots to be used at the event."
 created_at: "2025-07-02"
 ---
 
