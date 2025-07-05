@@ -9,23 +9,28 @@ created_at: "2025-07-02"
 
 # June 24, 2025 :Day 1, the start of two designs
 
-The plan is too make one vertical weapon robot and one that is a giant vertical spinner. The plan for the vertical weapon one is to make a drum. I am going to do a similar design of this combat robot minotaur! For the giant vertical spinner is too make a 150g Huge. This is honestly a bad idea but why not!
+The plan is too make one vertical weapon robot and one that is a giant vertical spinner. The plan for the vertical weapon one is to make a drum. I am going to do a similar design of this combat robot minotaur! For the giant vertical spinner is too make a 150g Huge. This is honestly a bad idea but why not! The weapons are going to be made out of tpu 95a and the rest of the bot can be anything else. For both of my bots, there main body (That is white in te photos are made out of a different stiffer version of tpu 95a. The armor (that is the black part is going to be normal tpu 95a. 
 
 ![image](https://github.com/user-attachments/assets/6945f394-fc96-49d3-a8f4-7a044664114f)
 
 ![image](https://github.com/user-attachments/assets/8a5ab1c0-5649-4e6e-b648-627f424e665d)
 
-These are the batteries I am planning on using!
+These are the batteries I am planning on using! They are small but powerfull batteries that should last more than enought time thatit needs. 
 
 ![image](https://github.com/user-attachments/assets/12f260e6-349c-4435-b7b6-836fd9a40ece)
 
-For the other elecronics, Both Bots are running 2 20s from Tunabot. Two maleki nanos from Turnabot. The weapon motor is going to be the rs2205. The are a little big but are good cheap and reliable motors in my oponion. For the esc for the weapon, am planning on a 30 or 35 amp esc. 
+For the other elecronics, Both Bots are running 2 20s from Tunabot. Two maleki nanos from Turnabot. The weapon motor is going to be the rs2205. They are a little big but are good cheap and reliable motors in my oponion. For the esc for the weapon, am planning on a 30 or 35 amp esc. 
 
 ![image](https://github.com/user-attachments/assets/1c917aae-2117-49b6-9208-66026d9d69fb)
 
 ![image](https://github.com/user-attachments/assets/86ce87c8-3e2c-4b40-bd4c-ef57990cfc0d)
 
 ![image](https://github.com/user-attachments/assets/c5ae10c7-111c-44c1-be4a-859a3f9a0a9e)
+
+
+
+![image](https://github.com/user-attachments/assets/0443122b-0e6b-4fcf-b5cc-acaf31d59ae8)
+
 
 I started on the huge battlebot! Here is also the electronic lay out. I made the wheels too. Might change them later on thought.
 
@@ -90,6 +95,7 @@ I updated the armor to be more bulky might be a little hard to tell.
 ![image](https://github.com/user-attachments/assets/a92bf341-08a6-446c-b198-9cd155c82a7e)
 ![image](https://github.com/user-attachments/assets/c775dd0e-82ee-484c-b400-714ecbd1a22b)
 
+**Total Time Spent: 3hr**
 
 # July 4, 2025 :Day 3, Working on the drum bot!!
 
@@ -104,3 +110,6 @@ Today I started with touching up the main body and worked on the weapon. I was a
 ![image](https://github.com/user-attachments/assets/c2b8c11d-c178-4ac8-9757-5a59893361f1)
 
 ![image](https://github.com/user-attachments/assets/76ca4260-305b-4016-8a65-b400a984c9a8)
+
+
+**Total Time Spent: 4hr**
