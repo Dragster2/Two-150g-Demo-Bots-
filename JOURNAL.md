@@ -9,7 +9,7 @@ created_at: "2025-07-02"
 
 # June 24, 2025 :Day 1, the start of two designs
 
-The plan is too make one vertical weapon robot and one that is a giant vertical spinner. The plan for the vertical weapon one is to make a drum. I am going to do a similar design of this combat robot minotaur! For the giant vertical spinner is too make a 150g Huge. This is honestly a bad idea but why not! The weapons are going to be made out of tpu 95a and the rest of the bot can be anything else. For both of my bots, there main body (That is white in te photos are made out of a different stiffer version of tpu 95a. The armor (that is the black part is going to be normal tpu 95a. 
+The plan is too make one vertical weapon robot and one that is a giant vertical spinner. The plan for the vertical weapon one is to make a drum. I am going to do a similar design of this combat robot minotaur! For the giant vertical spinner is too make a 200g Huge. This is honestly a bad idea but why not! The weapons are going to be made out of tpu 95a and the rest of the bot can be anything else. For both of my bots, there main body (That is white in te photos are made out of a different stiffer version of tpu 95a. The armor (that is the black part is going to be normal tpu 95a. 
 
 ![image](https://github.com/user-attachments/assets/6945f394-fc96-49d3-a8f4-7a044664114f)
 
@@ -114,6 +114,8 @@ Today I started with touching up the main body and worked on the weapon. I was a
 ![image](https://github.com/user-attachments/assets/76ca4260-305b-4016-8a65-b400a984c9a8)
 
 I finish the design and is time to do more weight calcs for both robot now!
+
+![image](https://github.com/user-attachments/assets/3712cd97-8cf3-401a-ba25-8560633e3af4)
 
 
 **Total Time Spent: 4hr**
