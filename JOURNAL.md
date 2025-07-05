@@ -82,6 +82,8 @@ I had talk to Dylan about this bot and we agreed that this bot gets to be 200g b
 
 # July 3, 2025 :Day 1, the start of the drum bot!
 
+Today I started on the other robot that is the drum bot. Same electronics as the other bot. This bot is a fun design that hits hard, drives good, and is reliably. I started with the uprights. The red motor is big so I had to get creative with it. 
+
 ![image](https://github.com/user-attachments/assets/ae919811-f6c0-4aee-98be-b59f77d357aa)
 
 ![image](https://github.com/user-attachments/assets/e353c1e0-3efe-422c-9614-f0b6866163d0)
@@ -91,7 +93,7 @@ I had talk to Dylan about this bot and we agreed that this bot gets to be 200g b
 ![image](https://github.com/user-attachments/assets/26c9dca0-14ec-4b41-b10b-c90aa0476709)
 
 ![image](https://github.com/user-attachments/assets/6985acae-30fd-438a-b758-951aa127f1db)
-I updated the armor to be more bulky might be a little hard to tell.
+I updated the armor to be more bulky might be a little hard to tell. The armor will not be solid due to weight but it should absorbed and take hits well.
 ![image](https://github.com/user-attachments/assets/a92bf341-08a6-446c-b198-9cd155c82a7e)
 ![image](https://github.com/user-attachments/assets/c775dd0e-82ee-484c-b400-714ecbd1a22b)
 
@@ -99,7 +101,7 @@ I updated the armor to be more bulky might be a little hard to tell.
 
 # July 4, 2025 :Day 3, Working on the drum bot!!
 
-Today I started with touching up the main body and worked on the weapon. I was able to finish the robot after a little bit more. This is two wheel drive drum. 
+Today I started with touching up the main body and worked on the weapon. I was able to finish the robot after a little bit more. This is two wheel drive drum. I edited the armor a little bit more. I added the antlers and the bottom stops to help take the weapon energy alway. 
 
 ![image](https://github.com/user-attachments/assets/49ce5225-b3aa-4e12-af56-0a6cee055463)
 
@@ -110,6 +112,8 @@ Today I started with touching up the main body and worked on the weapon. I was a
 ![image](https://github.com/user-attachments/assets/c2b8c11d-c178-4ac8-9757-5a59893361f1)
 
 ![image](https://github.com/user-attachments/assets/76ca4260-305b-4016-8a65-b400a984c9a8)
+
+I finish the design and is time to do more weight calcs for both robot now!
 
 
 **Total Time Spent: 4hr**
