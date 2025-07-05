@@ -113,9 +113,18 @@ Today I started with touching up the main body and worked on the weapon. I was a
 
 ![image](https://github.com/user-attachments/assets/76ca4260-305b-4016-8a65-b400a984c9a8)
 
-I finish the design and is time to do more weight calcs for both robot now!
+I finish the design and is time to do more weight calcs for both robot now! I am going to start with the drum robot.
+![image](https://github.com/user-attachments/assets/f9eacf9b-ffb4-48cf-a268-1dee86123de6)
 
-![image](https://github.com/user-attachments/assets/3712cd97-8cf3-401a-ba25-8560633e3af4)
+![image](https://github.com/user-attachments/assets/9e632b91-0913-410b-88f9-705bcfa184d0)
 
+![image](https://github.com/user-attachments/assets/8e8aba32-0911-4934-a620-2bc3f8cc072f)
+
+![image](https://github.com/user-attachments/assets/7f02c4e2-4014-46ca-a029-a7de586d1f32)
+
+![image](https://github.com/user-attachments/assets/2ee32e6b-d978-4fde-923b-5c639ac5ea2d)
+
+
+![image](https://github.com/user-attachments/assets/0a654f3b-c23d-44f5-a855-ed5374f70054)
 
 **Total Time Spent: 4hr**
