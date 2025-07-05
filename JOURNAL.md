@@ -5,7 +5,7 @@ description: "These are two demo bots to be used at the event."
 created_at: "2025-07-02"
 ---
 
-# Total Time Spent 6 hours
+# Total Time Spent 14 hours
 
 # June 24, 2025 :Day 1, the start of two designs
 
@@ -138,4 +138,13 @@ It now ways 198.65 grams. I kept a little extra weight so if I need to change an
 ![image](https://github.com/user-attachments/assets/646d9743-30e7-4196-88a7-ed8649134c11)
 
 Lets gooooo! Huge is in weight too at 197.56! A little over two grams to spae again lets goo!
-**Total Time Spent: 4hr**
+
+Now both bots are finish!! Also the way to turned them on is making a custo switch with an xt30 and two negatve or positive wires to finish the loop to turn it on. I hope these bots do good!!
+
+![image](https://github.com/user-attachments/assets/8ab25bb2-14d0-4ed0-af25-2ce1b275ff99)
+
+![image](https://github.com/user-attachments/assets/46b9f810-5ca0-4d27-8dea-fd20a6e3e444)
+
+![image](https://github.com/user-attachments/assets/db1b827e-2e32-4cdb-9de8-9c05bdd2273a)
+
+**Total Time Spent: 5hr**
