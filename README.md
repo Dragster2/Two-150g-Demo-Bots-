@@ -12,3 +12,7 @@ The reason I want to make these is first, to make more little robots like these 
 ![image](https://github.com/user-attachments/assets/46b9f810-5ca0-4d27-8dea-fd20a6e3e444)
 
 ![image](https://github.com/user-attachments/assets/db1b827e-2e32-4cdb-9de8-9c05bdd2273a)
+
+# Here is the wiring harness
+
+![image](https://github.com/user-attachments/assets/a15e45fe-831b-4b3b-a7c1-0c8d98f7a8cd)
