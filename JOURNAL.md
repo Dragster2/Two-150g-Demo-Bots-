@@ -127,4 +127,15 @@ I finish the design and is time to do more weight calcs for both robot now! I am
 
 ![image](https://github.com/user-attachments/assets/0a654f3b-c23d-44f5-a855-ed5374f70054)
 
+It now ways 198.65 grams. I kept a little extra weight so if I need to change anything or something is heavier. Time toHuge bot. I already did a brief look at the weight and it should be good. Time to look at it some more!!
+
+![image](https://github.com/user-attachments/assets/99528592-020c-4ed8-953d-9a8e5972f858)
+![image](https://github.com/user-attachments/assets/62a03552-aef0-46de-b054-8e12dac4ec56)
+![image](https://github.com/user-attachments/assets/8c72cc6f-d82a-421d-8483-d6c5db87662e)
+![image](https://github.com/user-attachments/assets/26dd2f8c-2ac7-4564-8ce7-b12b7f5bdc17)
+![image](https://github.com/user-attachments/assets/6a03c6bb-1700-4fd6-a256-54d8fd52c578)
+
+![image](https://github.com/user-attachments/assets/646d9743-30e7-4196-88a7-ed8649134c11)
+
+Lets gooooo! Huge is in weight too at 197.56! A little over two grams to spae again lets goo!
 **Total Time Spent: 4hr**
