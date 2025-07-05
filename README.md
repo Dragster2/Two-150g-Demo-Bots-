@@ -5,7 +5,7 @@ Both bots have a tpu weapon! There frames and armor are made out of Tpu! These D
 
 # Why I made them. 
 
-The reason I want to make these is first, to make more little robots like these and so people can have fun with them at the event. The plan is to let people fight them against each other. I really hope this will be fun. I also hope people would get into this sport!!
+The reason I want to make these is first, to make more little robots like these and so people can have fun with them at the event. The plan is to let people fight them against each other. I really hope this will be fun. I also hope people would get into this sport!! The reason I made these style robots is for many reasons. One reason was because I wanted to try different kinds of robots. Second is because I never made them before and I hope they are good!!
 
 ![image](https://github.com/user-attachments/assets/8ab25bb2-14d0-4ed0-af25-2ce1b275ff99)
 
