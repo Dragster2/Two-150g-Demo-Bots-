@@ -21,7 +21,7 @@ The reason I want to make these is first, to make more little robots like these 
 # Here is the wiring harness
 
 ![image](https://github.com/user-attachments/assets/a15e45fe-831b-4b3b-a7c1-0c8d98f7a8cd)
-# Both BOM
+# Both of the BOM
 | Item Name         | Quanitity | Weight | Subweight | Cost          | Total Weight |
 |-------------------|-----------|--------|-----------|---------------|--------------|
 | Chassis           | 1         | 38.78  | 38.78     | 3d printed    | 193.63       |
